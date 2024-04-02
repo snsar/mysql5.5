@@ -1,0 +1,4 @@
+.env
+insertDBScript.py
+.venv
+mysql_data
